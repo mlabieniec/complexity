@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      "complexity",
+      "/Users/mlab/workspace/complexity-plugin"
+    ]
+  ],
+  "_from": "complexity@latest",
+  "_id": "complexity@0.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/complexity",
+  "_npmUser": {
+    "email": "michaellabieniec@gmail.com",
+    "name": "mlabieniec"
+  },
+  "_npmVersion": "1.3.24",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "complexity",
+    "raw": "complexity",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/complexity/-/complexity-0.0.3.tgz",
+  "_shasum": "d53e2fc476cb62c95b5aa23209e5c83dfd6b1e10",
+  "_shrinkwrap": null,
+  "_spec": "complexity",
+  "_where": "/Users/mlab/workspace/complexity-plugin",
+  "author": {
+    "name": "ksmithut"
+  },
+  "dependencies": {},
+  "description": "Helps validate the complexity of a string. It builds regular expressions based on common settings for passwords, usernames, and other user identification methods",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "d53e2fc476cb62c95b5aa23209e5c83dfd6b1e10",
+    "tarball": "https://registry.npmjs.org/complexity/-/complexity-0.0.3.tgz"
+  },
+  "keywords": [
+    "password",
+    "validate",
+    "regex",
+    "complexity"
+  ],
+  "license": "BSD",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "michaellabieniec@gmail.com",
+      "name": "mlabieniec"
+    }
+  ],
+  "name": "complexity",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": "",
+  "version": "0.0.3"
+}
