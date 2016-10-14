@@ -6,7 +6,7 @@ var regexOptions,
 
 regexOptions = {
   uppercase    : '.*[A-Z]',
-  special      : '.*[!@#$&*]',
+  special      : '.*[^A-Za-z0-9]',
   digit        : '.*[0-9]',
   lowercase    : '.*[a-z]',
   upperLower   : '.*[a-zA-Z]',
